@@ -1,7 +1,7 @@
 - 👋 Hey ! I’m @Legae-Kotsokoane
-- 👀 I’m interested in App Development  Machine Learning
+- 👀 I’m interested in App Development and Machine Learning
 - 🌱 I’m currently learning BSc Computer Science
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python and java projects
 - 📫 How to reach me legaekotsokoane@gmail.com
 
 <!---
